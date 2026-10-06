@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#241711"/>
+      <stop offset="50%" stop-color="#15100D"/>
+      <stop offset="100%" stop-color="#0B0908"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4C430"/>
+      <stop offset="50%" stop-color="#FFD84D"/>
+      <stop offset="100%" stop-color="#C99716"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Outer subtle gold circle ring -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="url(#goldGrad)" stroke-width="2" stroke-opacity="0.35" stroke-dasharray="8 6"/>
+  <circle cx="200" cy="200" r="176" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.6"/>
+
+  <!-- Minimalist Head & Shoulders silhouette -->
+  <circle cx="200" cy="155" r="54" fill="#3A2418" stroke="url(#goldGrad)" stroke-width="2"/>
+  <path d="M110,310 C110,240 150,225 200,225 C250,225 290,240 290,310 Z" fill="#3A2418" stroke="url(#goldGrad)" stroke-width="2"/>
+
+  <!-- Luxury Monogram in Gold -->
+  <text x="200" y="166" font-family="'Outfit', 'Inter', sans-serif" font-size="34" font-weight="800" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="2">SS</text>
+  <text x="200" y="275" font-family="'Inter', sans-serif" font-size="14" font-weight="600" fill="#F5F1E8" text-anchor="middle" letter-spacing="1.5">SAYUSH SHUKLA</text>
+  <text x="200" y="296" font-family="'Fira Code', monospace" font-size="11" font-weight="500" fill="#F4C430" text-anchor="middle" letter-spacing="1">FULL STACK &amp; AI/ML</text>
+</svg>
