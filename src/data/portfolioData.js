@@ -7,19 +7,19 @@ export const portfolioData = {
     subheading: "Full Stack Developer | AI/ML Enthusiast",
     degree: "B.Tech Computer Science Engineering",
     college: "PRANVEER SINGH INSTITUTE OF TECHNOLOGY (PSIT)",
-    currentSemester: "3rd Semester",
+    currentSemester: "2nd Year",
 
     location: "Kanpur, Uttar Pradesh, India",
     availability: "Open to Internships & Projects",
     shortDescription:
       "I'm a B.Tech Computer Science student passionate about building modern web applications and intelligent systems. I enjoy solving programming problems, learning new technologies, and turning ideas into practical projects.",
     stats: [
-      { id: "sem", value: "3rd", label: "Semester", sub: "B.Tech in CSE" },
+      { id: "sem", value: "2nd", label: "Year", sub: "B.Tech in CSE" },
       { id: "projects", value: "3+", label: "Key Projects", sub: "ML & Software" },
       { id: "tech", value: "15+", label: "Technologies", sub: "Languages & Tools" },
     ],
     aboutText: [
-      "I am a passionate Computer Science and Engineering undergraduate currently in my 3rd semester at Pranveer Singh Institute of Technology (PSIT). My technical curiosity spans across Full Stack Web Development and Artificial Intelligence / Machine Learning.",
+      "I am a passionate Computer Science and Engineering undergraduate currently in my 2nd year at Pranveer Singh Institute of Technology (PSIT). My technical curiosity spans across Full Stack Web Development and Artificial Intelligence / Machine Learning.",
       "I actively practice Data Structures and Algorithms while developing hands-on applications in Python, C++, and modern JavaScript ecosystems. I value clean code, systematic problem solving, and building tools that make an impact.",
       "Rather than claiming to be an expert in everything, I take pride in being a dedicated, fast-learning engineer who turns theoretical concepts into working prototypes through constant practice and real projects.",
     ],
@@ -139,9 +139,9 @@ export const portfolioData = {
       id: "btech",
       institution: "PRANVEER SINGH INSTITUTE OF TECHNOLOGY (PSIT)",
       degree: "B.Tech Computer Science Engineering",
-      timeline: "2024 - Present (Current: 3rd Semester)",
+      timeline: "2nd Year, 2026 (Current)",
       badge: "Undergraduate",
-      metrics: "3rd Semester",
+      metrics: "2nd Year (Current)",
       description:
         "Pursuing core computer science curriculum covering Data Structures, Algorithms, Object-Oriented Analysis, Computer Architecture, and Operating Systems. Actively involved in campus tech events and collaborative development.",
       highlights: [

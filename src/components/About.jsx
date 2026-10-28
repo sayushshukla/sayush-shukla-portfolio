@@ -160,7 +160,7 @@ export default function About() {
                 ))}
               </div>
 
-              {/* Factual Stats Grid: 7.6 CGPA, 3rd Semester, 3+ Projects, Multiple Technologies */}
+              {/* Factual Stats Grid: 2nd Year, 3+ Projects, Multiple Technologies */}
               <div
                 style={{
                   display: "grid",
